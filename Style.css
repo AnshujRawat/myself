@@ -1,0 +1,68 @@
+.intro {
+    color: rgb(165, 42, 118);
+    font-family: sans-serif;
+    font-size: 30px;
+    text-align: center;
+    background-image: url(./chris\ background.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: aqua;
+    
+}
+.image{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+}
+.myself{
+    text-align: center;
+    margin-top: 5%;
+    
+}
+.myself h1{
+    color: #66bfbf;
+    font-size: 2.5rem;
+    padding-bottom: 10px;
+}
+.myself p{
+    font-size: 2rem;
+}
+
+.skills{
+    display: block;
+    text-align: center;
+    margin-top: 5%;
+    background-color: azure;
+    
+}
+.skills h1{
+    display: block;
+    font-style: italic;
+    font-family: sans-serif;
+    color: aquamarine;
+    font-size: 2.5rem;
+}
+.skills p{
+    font-size: 2rem;
+    font-family: serif;
+}
+.contact-us{
+    margin-top: 5%;
+    text-align: center;
+}
+
+.bottom-container{
+    display: block;
+    text-align: center;
+    justify-content: center;
+    margin-top: 3%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    background-color: #66bfbf;
+}
+.footer-link{
+    margin-left: 2%;
+    margin-right: 2%;
+    color: blueviolet;
+}
+
